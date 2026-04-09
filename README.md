@@ -102,6 +102,7 @@ We welcome contributions to enhance Travel. Follow these guidelines:
 6. **Task Assignment**: Task assignments and PR reviews are conducted daily from 6:00 PM to 7:00 PM IST.
 
 ## Project Structure
+[logo](grid.png)
 
 ```bash
 Travel/
