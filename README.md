@@ -1,4 +1,5 @@
 # Travel
+![logo](Screenshot (16).png)
 
 [Live Demo](https://travel-grid.vercel.app/) | [GitHub Repository](https://github.com/wbsanjar/travel)
 
